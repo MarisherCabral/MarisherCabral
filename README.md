@@ -21,15 +21,16 @@
 
 🔹 **Flower Shop (Fleur de Luxe)** – Web app for handling flower orders for both user and seller *(PHP + MySQL)*  
 🔹 **Personal Portfolio Website** – Responsive portfolio built with HTML, CSS, and JavaScript  
-🔹 **Event Booking Platform** – Backend API with Express & MongoDB  
+🔹 **Cinema Booking Platform (MEVN Stack)** – A movie ticket booking system built with MongoDB, Express, Vue, and Node.js, featuring a backend API, seat selection, and real-time booking updates.  
 
 ---
 
 ## 🌱 Currently Learning  
 
-- Vue.js & Express.js  
-- Cloud Computing Basics  
-- API Development  
+- Angular – Building dynamic, component-based web apps  
+- Cloud Computing Basics – Understanding deployment, storage, and online services  
+- API Development – Creating and structuring backend APIs
+- Dart – Learning syntax and building apps (preparing for Flutter) 
 
 ---
 
