@@ -30,7 +30,8 @@
 - Angular – Building dynamic, component-based web apps  
 - Cloud Computing Basics – Understanding deployment, storage, and online services  
 - API Development – Creating and structuring backend APIs
-- Dart – Learning syntax and building apps (preparing for Flutter) 
+- Dart – Learning syntax and building apps  
+- Flutter – Developing mobile and desktop apps with a single codebase 
 
 ---
 
