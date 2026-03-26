@@ -32,10 +32,13 @@
 
 🔹 **Fleur de Luxe (Flower Shop E-commerce)**
 A full-featured web application for managing online flower orders, supporting both customer purchases and seller management (PHP + MySQL)
+
 🔹 **Personal Portfolio Website**
 A responsive and modern portfolio showcasing projects and skills, built using HTML, CSS, and JavaScript
+
 🔹 **CineBook (Cinema Booking Platform)**
 A full-stack movie ticket booking system built with the MEVN stack (MongoDB, Express, Vue, Node.js), featuring a RESTful API, interactive seat selection, and real-time booking updates
+
 🔹 **LingkodHub (Digital Barangay Service Platform)**
 A full-stack web application designed to digitize barangay services, including document requests and appointment scheduling. Features a role-based system with an admin dashboard, resident portal, and real-time request tracking (Angular + Node.js + MongoDB)
 
