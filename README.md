@@ -46,11 +46,9 @@ A full-stack web application designed to digitize barangay services, including d
 
 ## 🌱 Currently Learning  
 
-- Angular – Building dynamic, component-based web apps  
+- React Native – Learning to create mobile applications using modern component-based architectures  
 - Cloud Computing Basics – Understanding deployment, storage, and online services  
-- API Development – Creating and structuring backend APIs
-- Dart – Learning syntax and building apps  
-- Flutter – Developing mobile and desktop apps with a single codebase 
+ 
 
 ---
 
